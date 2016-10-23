@@ -1,0 +1,6 @@
+{
+  "name": "Saas-project-app",
+  "tagline": "",
+  "body": "== README\r\n\r\nThis is the final in a series of projects I did to show proficiency with Ruby on Rails. It's an app where users can sign up, invite members and collaborate on projects together. \r\n\r\n\r\nView it in production on Heroku:\r\n[SaaS Project](https://ruby-saas-app.herokuapp.com/)\r\n\r\n![rubies](http://www.devinterface.com/blog/wp-content/uploads/2013/11/Ruby-on-Rails-slider.png)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
