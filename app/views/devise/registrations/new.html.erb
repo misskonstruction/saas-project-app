@@ -33,6 +33,9 @@
           class: "form-control" %>
         </div>
         <%= fields_for( :payment ) do |p| %>
+        <div class="row col-md-12">
+          <p>*NOTE: This is a sample application. If you wish to sign up for a premium account you can use the following "dummy" credit card number:4242424242424242, with a 3-digit security code and expiration date of your choice. Please do NOT enter actual credit card information, but feel free to utilize a premium account with these numbers if you choose.</p>
+        </div>
           <div class="row col-md-12">
             <div class="form-group col-md-4 no-left-padding">
               <%= p.label :card_number, "Card Number", data: { stripe: 'label' } %>
